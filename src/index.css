@@ -1,0 +1,42 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #F8F8F8;
+  margin: 0;
+  padding: 0;
+  line-height: 26px;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  line-height: 40px;
+  margin-bottom: 15px;
+}
+
+.button {
+  background-color: rgba(244, 224, 65, 1);
+  width: 100px;
+  height: 34px;
+  border-radius: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  margin: 6px;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.button:hover {
+  background-color: rgba(255, 227, 2, 1);
+}
