@@ -18,3 +18,5 @@ However, I faced some difficulties:
 
 - I couldn’t successfully complete the POST request (I suspect issues with sending photos, as I haven’t practiced sending images before, or with connecting the token – although the token was generated correctly).
 - I lacked sufficient knowledge to bundle the project with Webpack (I spent a day searching for information, following video tutorials, reading documentation, and even using GPT for guidance).
+
+Thank you for your time!
